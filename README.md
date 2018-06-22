@@ -4,6 +4,7 @@ Konstantin Ryabokon
 
 <b>Project completion date:</b> 7/30/17
 
+<b>Project Video: </b>https://youtu.be/RRU_WeLBb4Q
 
 <b>APK build: </b> https://drive.google.com/open?id=0B5qSeBSVa-jDcnFuRzF0Vm8tNjQ
 
